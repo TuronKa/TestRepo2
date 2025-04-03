@@ -12,4 +12,8 @@ Test lokalnich zmen a propagace online
 
 Terstuje merge
 
+<<<<<<< HEAD
 Testujeme konfliktni merge z feature
+=======
+Testujeme konflikt merge z featureB
+>>>>>>> featureB
